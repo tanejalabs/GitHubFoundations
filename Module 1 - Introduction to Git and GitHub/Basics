@@ -1,0 +1,36 @@
+GIT
+
+Definition: Git is a distributed version control system (VCS) used to track changes in source code during software development.
+
+Purpose: It allows multiple developers to work on the project simultaneously without overwriting each other's changes.
+
+Key Features
+    --> Tracks version history of files
+    --> Supports branching and merging
+    --> Works locally (offline capability)
+    --> ensures code integrity through sha- checksums
+
+Common git commands
+    --> git init = initialize a repo
+    --> git clone = copy an exisiting repo
+    --> git add = stage changes
+    --> git commit = save changes to local repo
+    --> git push/pull = sync with remote repo
+
+
+GITHUB
+
+Definition: GitHub is a cloud based hosting service for Git repositories
+
+Purpose: It provides a platform for collaboration code sharing and project management using git
+
+Key Features
+    --> Remote repo hosting
+    --> Pull Requests for code reviews
+    --> Issue tracking and project boards
+    --> Integration with CI/CD tools
+
+
+Git = Tool (for version control)
+
+GitHub = Platform (for hosting git repos and collaboration)
